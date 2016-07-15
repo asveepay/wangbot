@@ -8,5 +8,9 @@
   "hubot-maps",
   "hubot-redis-brain",
   "hubot-rules",
-  "hubot-shipit"
+  "hubot-shipit",
+  "hubot-plusplus",
+  "hubot-ascii",
+  "hubot-bitcoin",
+  "hubot-fliptable"
 ]
