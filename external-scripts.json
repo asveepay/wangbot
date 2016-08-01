@@ -12,5 +12,6 @@
   "hubot-plusplus",
   "hubot-ascii",
   "hubot-bitcoin",
-  "hubot-fliptable"
+  "hubot-fliptable",
+  "hubot-scripts-stock"
 ]
