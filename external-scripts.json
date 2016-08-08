@@ -13,5 +13,6 @@
   "hubot-ascii",
   "hubot-bitcoin",
   "hubot-fliptable",
-  "hubot-scripts-stock"
+  "hubot-scripts-stock",
+  "hubot-meme"
 ]
