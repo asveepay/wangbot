@@ -7,7 +7,7 @@
   "dependencies": {
     "hubot": "^2.19.0",
     "hubot-ascii": "^0.1.0",
-    "hubot-baseball": "https://github.com/asveepay/hubot-baseball/archive/1.0.3.tar.gz",
+    "hubot-baseball": "https://github.com/asveepay/hubot-baseball/archive/1.0.4.tar.gz",
     "hubot-bitcoin": "^1.0.3",
     "hubot-diagnostics": "0.0.1",
     "hubot-doge": "0.0.1",
