@@ -5,7 +5,7 @@
   "author": "Roland asveepay@gmail.com",
   "description": "Wanging across America",
   "dependencies": {
-    "hubot": "^2.19.0",
+    "hubot": "^3.1.1",
     "hubot-ascii": "^0.1.0",
     "hubot-baseball": "https://github.com/asveepay/hubot-baseball/archive/1.0.9.tar.gz",
     "hubot-bitcoin": "^1.0.3",
@@ -26,10 +26,10 @@
     "hubot-rules": "^0.1.2",
     "hubot-scripts-stock": "^0.2.1",
     "hubot-shipit": "^0.2.1",
-    "hubot-slack": "^3.4.2",
+    "hubot-slack": "^4.5.3",
     "hubot-stocks": "0.0.3"
   },
   "engines": {
-    "node": "6.11.1"
+    "node": "8.9.3"
   }
 }
