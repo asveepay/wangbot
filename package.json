@@ -27,7 +27,7 @@
     "hubot-rules": "^0.1.2",
     "hubot-scripts-stock": "^0.2.1",
     "hubot-shipit": "^0.2.1",
-    "hubot-slack": "^4.5.4",
+    "hubot-slack": "^4.7.1",
     "hubot-stocks": "0.0.3"
   },
   "engines": {
