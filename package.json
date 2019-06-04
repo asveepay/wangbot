@@ -6,7 +6,6 @@
   "description": "Wanging across America",
   "dependencies": {
     "hubot": "^3.1.1",
-    "hubot-ascii": "^0.1.0",
     "hubot-baseball": "https://github.com/asveepay/hubot-baseball/archive/1.0.9.tar.gz",
     "hubot-bitcoin": "^1.0.3",
     "hubot-diagnostics": "0.0.1",
