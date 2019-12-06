@@ -19,7 +19,7 @@
     "hubot-maps": "0.0.2",
     "hubot-meme": "^1.3.2",
     "hubot-memegeneration": "^3.0.0",
-    "hubot-nfl": "https://github.com/asveepay/hubot-nfl/archive/v0.0.1.tar.gz",
+    "hubot-nfl": "https://github.com/asveepay/hubot-nfl/archive/v0.0.2.tar.gz",
     "hubot-plusplus": "^1.3.0",
     "hubot-pugme": "^0.1.1",
     "hubot-redis-brain": "0.0.3",
