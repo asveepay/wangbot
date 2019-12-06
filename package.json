@@ -6,12 +6,12 @@
   "description": "Wanging across America",
   "dependencies": {
     "hubot": "^3.1.1",
-    "hubot-ascii": "^0.1.0",
     "hubot-baseball": "https://github.com/asveepay/hubot-baseball/archive/1.0.9.tar.gz",
     "hubot-bitcoin": "^1.0.3",
     "hubot-diagnostics": "0.0.1",
     "hubot-doge": "0.0.1",
     "hubot-fliptable": "^1.2.0",
+    "hubot-foodtrucks": "https://github.com/internobody/hubot-foodtrucks/archive/0.0.1.tar.gz",
     "hubot-google-images": "^0.2.7",
     "hubot-google-translate": "^0.2.1",
     "hubot-help": "^0.2.2",
@@ -26,7 +26,7 @@
     "hubot-rules": "^0.1.2",
     "hubot-scripts-stock": "^0.2.1",
     "hubot-shipit": "^0.2.1",
-    "hubot-slack": "^4.5.4",
+    "hubot-slack": "^4.7.1",
     "hubot-stocks": "0.0.3"
   },
   "engines": {

@@ -11,10 +11,10 @@
   "hubot-shipit",
   "hubot-stocks",
   "hubot-plusplus",
-  "hubot-ascii",
   "hubot-bitcoin",
   "hubot-fliptable",
   "hubot-memegeneration",
   "hubot-baseball",
-  "hubot-nfl"
+  "hubot-nfl",
+  "hubot-foodtrucks"
 ]
