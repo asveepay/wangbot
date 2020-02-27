@@ -24,7 +24,6 @@
     "hubot-pugme": "^0.1.1",
     "hubot-redis-brain": "0.0.3",
     "hubot-rules": "^0.1.2",
-    "hubot-scripts-stock": "^0.2.1",
     "hubot-shipit": "^0.2.1",
     "hubot-slack": "^4.7.1",
     "hubot-stock-checker": "^2.0.0",
