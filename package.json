@@ -1,6 +1,6 @@
 {
   "name": "wangbot",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "private": true,
   "author": "Roland asveepay@gmail.com",
   "description": "Wanging across America",
@@ -30,6 +30,6 @@
     "hubot-stocks": "0.0.3"
   },
   "engines": {
-    "node": "8.9.3"
+    "node": "v14.15.4"
   }
 }
